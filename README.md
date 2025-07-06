@@ -2,14 +2,20 @@
 TikTok/Douyin Signatures from Reverse Engineering.
 Useful for your next scraping/bot project.
 
-### X-Gorgon : OK
-### X-Khronos : OK
-### X-Argus : NOT FINAL
-### X-Ladon : OK BUT NOT FINAL
+### X-Gorgon
+Working
+### X-Khronos
+Working
+### X-Argus
+Not Finished
+### X-Ladon
+Not Finished but should work
 ## SOON
 ### X-Bogus
-### X-Medusa
-### X-Thyron
-
+Web, from TikTok's VM 
+### X-Medusa (Douyin)
+Soon
+### X-Thyron (Douyin)
+Soon
 
 **You will need to modify the codes to your likings**
