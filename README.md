@@ -7,12 +7,12 @@ Working
 ### X-Khronos
 Working
 ### X-Argus
-Not Finished
+DM ME TO BUY SIGNING API 
 ### X-Ladon
 Working
 ## SOON
 ### X-Bogus
-Web, from TikTok's VM 
+Working
 ### X-Medusa (Douyin)
 Soon
 ### X-Thyron (Douyin)
